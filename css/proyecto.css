@@ -1,0 +1,30 @@
+/*
+selector{
+    propiedad: valor;
+    propiedad:valor;
+}
+*/
+nav{
+    color: rgb(72, 39, 0);
+}
+h1{
+    color: rgb(107, 71, 3);
+}
+.tituloperro{
+    color: burlywood;
+}
+h2{
+    color: brown;
+}
+#otrotitulo{
+    color: rgb(76, 55, 6)
+}
+p{
+    background-color: #E1E5FF;
+}
+body{
+    background-color: aliceblue;
+}
+.pfooter{
+    background-color: #ebc89a;
+}

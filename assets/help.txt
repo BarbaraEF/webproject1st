@@ -1,0 +1,10 @@
+Sentencias git
+git add . 
+git status
+git push 
+git remote -v 
+
+git commit -m "Cambios"
+git push origin master (guarda y sube a git)
+
+
